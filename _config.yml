@@ -1,6 +1,6 @@
 title: Ad Hoc
 description: A blog of Loreips.
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 url: https://loreips3115.github.io
 
