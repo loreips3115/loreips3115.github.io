@@ -1,8 +1,8 @@
 title: Ad Hoc
 description: A blog of Loreips.
-remote_theme: just-the-docs
-
 url: https://loreips3115.github.io
+theme: just-the-docs
+repository: loreips3115/loreips3115.github.io
 
 aux_links:
   solved.ac: https://solved.ac/profile/loreips3115

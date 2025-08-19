@@ -1,7 +1,7 @@
 ---
 title: Home
 nav_order: 0
-layout: home
+layout: default
 ---
 
 TODO: Make Home Page

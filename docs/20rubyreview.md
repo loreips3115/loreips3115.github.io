@@ -1,7 +1,7 @@
 ---
 title: 지금까지 푼 루비 문제 리뷰
 nav_order: 1
-layout: home
+layout: default
 ---
 
 마지막 업데이트: 2025년 8월 20일
