@@ -3,6 +3,7 @@ description: A blog of Loreips.
 url: https://loreips3115.github.io
 theme: just-the-docs
 repository: loreips3115/loreips3115.github.io
+math: mathjax
 
 aux_links:
   solved.ac: https://solved.ac/profile/loreips3115
